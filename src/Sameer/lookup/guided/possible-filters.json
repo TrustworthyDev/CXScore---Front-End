@@ -1,0 +1,162 @@
+{
+  "rule.detailLevel:a": {
+    "color": "#62BEF4",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "A",
+    "label": "A",
+    "abbreviation": "A"
+  },
+  "rule.detailLevel:aa": {
+    "color": "#FEB692",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "AA",
+    "label": "AA",
+    "abbreviation": "AA"
+  },
+  "rule.detailLevel:aaa": {
+    "color": "#F69098",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "AAA",
+    "label": "AAA",
+    "abbreviation": "AAA"
+  },
+  "rule.detailLevel:other": {
+    "color": "#A89CF7",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "Best Practices",
+    "label": "Best Practices",
+    "abbreviation": "BP"
+  },
+  "severity:critical": {
+    "color": "#FEB692",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Critical",
+    "label": "Critical",
+    "abbreviation": "Critical"
+  },
+  "severity:serious": {
+    "color": "#F69098",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Serious",
+    "label": "Serious",
+    "abbreviation": "Serious"
+  },
+  "severity:moderate": {
+    "color": "#62BEF4",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Moderate",
+    "label": "Moderate",
+    "abbreviation": "Moderate"
+  },
+  "severity:minor": {
+    "color": "#A89CF7",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Minor",
+    "label": "Minor",
+    "abbreviation": "Minor"
+  },
+  "rule.issueCategory:sr": {
+    "color": "#F69098",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Screen Reader",
+    "label": "Screen Reader",
+    "abbreviation": "SR"
+  },
+  "rule.issueCategory:av": {
+    "color": "#A89CF7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Audio & Video",
+    "label": "Audio & Video",
+    "abbreviation": "AV"
+  },
+  "rule.issueCategory:rwd": {
+    "color": "#f4c4e7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "RWD",
+    "label": "RWD",
+    "abbreviation": "RWD"
+  },
+  "rule.issueCategory:cc": {
+    "color": "#62BEF4",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Color Contrast",
+    "label": "Color Contrast",
+    "abbreviation": "CC"
+  },
+  "rule.issueCategory:structure": {
+    "color": "#f4c4e7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Structure & Layout",
+    "label": "Structure & Layout",
+    "abbreviation": "Structure"
+  },
+  "rule.issueCategory:kb": {
+    "color": "#FEB692",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Keyboard",
+    "label": "Keyboard",
+    "abbreviation": "KB"
+  },
+  "rule.issueCategory:controls": {
+    "color": "#FEB692",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "User Controls",
+    "label": "User Controls",
+    "abbreviation": "Controls"
+  },
+  "manualTestResult:pending": {
+    "color": "#FEB692",
+    "field": "manualTestResult",
+    "fieldLabel": "Test Status",
+    "value": "pending",
+    "label": "Pending",
+    "abbreviation": "Pending"
+  },
+  "manualTestResult:pass": {
+    "color": "#62BEF4",
+    "field": "manualTestResult",
+    "fieldLabel": "Test Status",
+    "value": "pass",
+    "label": "Pass",
+    "abbreviation": "Pass"
+  },
+  "manualTestResult:fail": {
+    "color": "#F69098",
+    "field": "manualTestResult",
+    "fieldLabel": "Test Status",
+    "value": "failed",
+    "label": "Fail",
+    "abbreviation": "Fail"
+  },
+  "rule.type:Automated": {
+    "color": "#62BEF4",
+    "field": "rule.type",
+    "fieldLabel": "Manual/Automated",
+    "value": "Automated",
+    "label": "Automation (I)",
+    "abbreviation": "Auto(In)"
+  },
+  "rule.type:Manual": {
+    "color": "#F69098",
+    "field": "rule.type",
+    "fieldLabel": "Manual/Automated",
+    "value": "Manual",
+    "label": "Manual",
+    "abbreviation": "Manual"
+  }
+}

@@ -1,0 +1,17 @@
+.companyLogoImage {
+  width: 520px;
+  height: 260px;
+  object-fit: contain;
+}
+
+.textSR {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+@media print {
+  .imageSize {
+    height: 460px;
+    width: 460px;
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "rule.detailLevel:a": {
+    "color": "#62BEF4",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "A",
+    "label": "A",
+    "abbreviation": "A"
+  },
+  "rule.detailLevel:aa": {
+    "color": "#FEB692",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "AA",
+    "label": "AA",
+    "abbreviation": "AA"
+  },
+  "rule.detailLevel:aaa": {
+    "color": "#F69098",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "AAA",
+    "label": "AAA",
+    "abbreviation": "AAA"
+  },
+  "rule.detailLevel:other": {
+    "color": "#A89CF7",
+    "field": "rule.detailLevel",
+    "fieldLabel": "Conformance Level",
+    "value": "Best Practices",
+    "label": "Best Practices",
+    "abbreviation": "BP"
+  },
+  "severity:critical": {
+    "color": "#FEB692",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Critical",
+    "label": "Critical",
+    "abbreviation": "Critical"
+  },
+  "severity:serious": {
+    "color": "#F69098",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Serious",
+    "label": "Serious",
+    "abbreviation": "Serious"
+  },
+  "severity:moderate": {
+    "color": "#62BEF4",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Moderate",
+    "label": "Moderate",
+    "abbreviation": "Moderate"
+  },
+  "severity:minor": {
+    "color": "#A89CF7",
+    "field": "severity",
+    "fieldLabel": "Severity",
+    "value": "Minor",
+    "label": "Minor",
+    "abbreviation": "Minor"
+  },
+  "ticketStatus:Pending": {
+    "color": "#FEB692",
+    "field": "ticketStatus",
+    "fieldLabel": "Ticket Status",
+    "value": "Pending",
+    "label": "Pending",
+    "abbreviation": "Pending"
+  },
+  "ticketStatus:Unassigned": {
+    "color": "#F69098",
+    "field": "ticketStatus",
+    "fieldLabel": "Ticket Status",
+    "value": "Unassigned",
+    "label": "Unassigned",
+    "abbreviation": "Unassigned"
+  },
+  "ticketStatus:InProgress": {
+    "color": "#62BEF4",
+    "field": "ticketStatus",
+    "fieldLabel": "Ticket Status",
+    "value": "In Progress",
+    "label": "In Progress",
+    "abbreviation": "IP"
+  },
+  "ticketStatus:Done": {
+    "color": "#62BEF4",
+    "field": "ticketStatus",
+    "fieldLabel": "Ticket Status",
+    "value": "Done",
+    "label": "Done",
+    "abbreviation": "Done"
+  },
+  "rule.issueCategory:sr": {
+    "color": "#F69098",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Screen Reader",
+    "label": "Screen Reader",
+    "abbreviation": "SR"
+  },
+  "rule.issueCategory:av": {
+    "color": "#A89CF7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Audio & Video",
+    "label": "Audio & Video",
+    "abbreviation": "AV"
+  },
+  "rule.issueCategory:rwd": {
+    "color": "#f4c4e7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "RWD",
+    "label": "RWD",
+    "abbreviation": "RWD"
+  },
+  "rule.issueCategory:cc": {
+    "color": "#62BEF4",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Color Contrast",
+    "label": "Color Contrast",
+    "abbreviation": "CC"
+  },
+  "rule.issueCategory:structure": {
+    "color": "#f4c4e7",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Structure & Layout",
+    "label": "Structure & Layout",
+    "abbreviation": "Structure"
+  },
+  "rule.issueCategory:kb": {
+    "color": "#FEB692",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "Keyboard",
+    "label": "Keyboard",
+    "abbreviation": "KB"
+  },
+  "rule.issueCategory:controls": {
+    "color": "#FEB692",
+    "field": "rule.issueCategory",
+    "fieldLabel": "Category",
+    "value": "User Controls",
+    "label": "User Controls",
+    "abbreviation": "Controls"
+  },
+  "type:violation": {
+    "color": "#62BEF4",
+    "field": "rule.type",
+    "fieldLabel": "Test Type",
+    "value": "Automated",
+    "label": "Automated",
+    "abbreviation": "Automated"
+  },
+  "type:guided_test": {
+    "color": "#F69098",
+    "field": "rule.type",
+    "fieldLabel": "Test Type",
+    "value": "Manual",
+    "label": "Manual",
+    "abbreviation": "Manual"
+  }
+}

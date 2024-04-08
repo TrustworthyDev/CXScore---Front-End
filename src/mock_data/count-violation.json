@@ -1,0 +1,82 @@
+{
+	"status": "ok",
+	"result": [
+		{
+			"field": "type",
+			"values": [
+				{
+					"value": "violation",
+					"count": 1290
+				},
+				{
+					"value": "guided_test",
+					"count": 10
+				}
+			]
+		},
+		{
+			"field": "ticketStatus",
+			"values": [
+				{
+					"value": "unassigned",
+					"count": 1293
+				},
+				{
+					"value": "pending",
+					"count": 4
+				},
+				{
+					"value": "resolved",
+					"count": 3
+				}
+			]
+		},
+		{
+			"field": "rule.detailLevel",
+			"values": [
+				{
+					"value": "A",
+					"count": 320
+				},
+				{
+					"value": "AA",
+					"count": 280
+				}
+			]
+		},
+		{
+			"field": "rule.impact",
+			"values": [
+				{
+					"value": "Critical",
+					"count": 320
+				},
+				{
+					"value": "Serious",
+					"count": 280
+				}
+			]
+		},
+		{
+			"field": "rule.issueCategory",
+			"values": [
+				{
+					"value": "Screen Reader ",
+					"count": 210
+				},
+				{
+					"value": "Color Contrast",
+					"count": 270
+				},
+				{
+					"value": "Screen Reader",
+					"count": 110
+				},
+				{
+					"value": "Keyboard",
+					"count": 10
+				}
+			]
+		}
+	]
+}

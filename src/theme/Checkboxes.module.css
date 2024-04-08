@@ -1,0 +1,14 @@
+.input {
+  @mixin light {
+    border-color: var(--mantine-color-gray-6);
+    &[data-indeterminate] {
+      border-color: var(--_checkbox-bd-color);
+    }
+  }
+}
+
+.input:checked {
+  @mixin light {
+    border-color: var(--_checkbox-bd-color);
+  }
+}

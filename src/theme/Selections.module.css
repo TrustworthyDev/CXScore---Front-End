@@ -1,0 +1,8 @@
+.input {
+  &[data-variant="numberCenterSelect"] {
+    background: white;
+    border: 1px solid #ccc;
+    text-align: center;
+    width: rem(80px);
+  }
+}

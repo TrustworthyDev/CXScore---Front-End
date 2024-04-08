@@ -1,0 +1,101 @@
+.Toastify {
+  z-index: 400000;
+}
+
+.Toastify__toast-container {
+  width: auto;
+  min-width: 320px;
+  padding: 0;
+}
+
+.Toastify__toast-container--top-center {
+  top: 0;
+}
+
+.Toastify__toast {
+  padding: 0.4em 2rem;
+  border-radius: 0;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  background-image: linear-gradient(45deg, #35acef 0, #35acef 100%);
+  color: #eee;
+  min-height: 1rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.Toastify__toast a,
+.Toastify__toast a:visited {
+  color: #eee;
+}
+
+.Toastify__toast + .Toastify__toast {
+  margin-top: 1rem;
+}
+/*
+.Toastify__toast--error {
+  padding: 0;
+}
+
+.Toastify__toast--error:not(.error-toast) .Toastify__toast-body {
+  padding: 6px 11px;
+}
+
+.Toastify__toast--error.error-toast header {
+  text-align: left;
+  padding: 16px 11px;
+  font-weight: bold;
+
+  background-image: linear-gradient(
+    45deg,
+    var(--toastBackgroundColor1) 0,
+    var(--toastBackgroundColor2) 100%
+  );
+}
+
+.Toastify__toast--error .message {
+  background: var(--confirmationColor);
+  color: var(--toastColorError);
+}
+.Toastify__toast--error .message a,
+.Toastify__toast--error .message a:visited {
+  color: var(--toastColorError);
+} */
+
+.Toastify__close-button {
+  position: absolute;
+  right: 10px;
+  top: 11px;
+  background: transparent;
+  color: white;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+.Toastify__close-button svg {
+  stroke: white;
+}
+
+.Toastify__toast--error .message {
+  text-align: left;
+  padding: 14px 11px;
+  white-space: pre-wrap;
+}
+
+.Toastify__toast-body {
+  padding: 0;
+}
+
+.Toastify__toast-body .message p {
+  margin: 0 0 8px;
+}
+.Toastify__toast-body .message p:last-of-type {
+  margin: 0;
+}
+
+.Toastify__bounce-enter--top-center {
+  animation-name: Toastify__slideInDown;
+}
+
+.Toastify__bounce-exit--top-center {
+  animation-name: Toastify__slideOutUp;
+}

@@ -1,0 +1,120 @@
+{
+	"status": "ok",
+	"result": [
+		{
+			"_id": "63f0051ab1f91b23bbf5a6a9",
+			"id": "aaa7942b-5980-4d74-8bc2-4fe0c855c03e",
+			"type": "violation",
+			"applicationId": "citi_test_50",
+			"appName": "citi_test_50",
+			"stateId": "7351a062-e031-4674-89d6-49bd87e53aa4",
+			"url": "https://www.citi.com",
+			"cssSelector": "#atmLink > span[_ngcontent-ssr-c73=\"\"]",
+			"ruleId": "CXS_APCA_CC",
+			"scanId": [
+				"167220b8-1fe1-4e87-b587-8fbb79feb749"
+			],
+			"ticketStatus": "unassigned",
+			"eventSequence": [
+				"url:"
+			],
+			"snapshotUrl": "167220b8-1fe1-4e87-b587-8fbb79feb749/7351a062-e031-4674-89d6-49bd87e53aa4.png",
+			"html": "<span _ngcontent-ssr-c73=\"\">ATM / BRANCH</span>",
+			"bounds": {
+				"x": 1704.8125,
+				"y": 53,
+				"w": 78.03125,
+				"h": 24.5
+			},
+			"remediationSummary": "Fix any of the following:\n  Element has insufficient color contrast of 78.75210854041671 (foreground color: #666666, background color: #ffffff, font size: 11px, font weight: 400). Expected font size for this contrast ratio is 16",
+			"appVersion": [],
+			"__v": 0,
+			"scan": [
+				{
+					"_id": "63424d33ea00989c48448b18",
+					"id": "167220b8-1fe1-4e87-b587-8fbb79feb749",
+					"timeStarted": "2023-02-17T22:51:16.222Z",
+					"status": "done",
+					"__v": 205,
+					"currentStep": 17,
+					"appName": "citi_test_50",
+					"applicationId": "citi_test_50",
+					"maxSteps": 17,
+					"resultId": [
+						"23f89e13-a3a0-4521-ae20-4eb07b9f0fa7",
+						"c3a009f1-a985-4f8c-8120-49c5111cfb10",
+						"ccc46a57-4f59-4de5-930a-34368baf0c7c",
+						"98a0d828-9e7d-4116-83e7-0a8a284489a8",
+						"77a52ef3-2363-4157-bf62-eddde8b0f6cf",
+						"1203a606-779f-40d6-a016-985545863629",
+						"7244c6f5-5937-4a16-8fd3-5cf7d18f55c1",
+						"966dfcf7-3840-4b74-a5ec-9c4891713cfc",
+						"d806d57e-34e7-43aa-ae94-4b22a217088b",
+						"adc27013-a582-4e29-b33f-9c8203627714",
+						"6281c381-8bd6-4759-bc97-5be86533091f",
+						"47022412-1fc8-4709-acd5-878e11d16ce5",
+						"bcfa39b9-5df1-4de8-a2c9-8ac12b746563",
+						"ea0344aa-66fc-46ef-b586-59189c8a5b9e",
+						"e313a856-6f8d-47b6-9685-48668c2a5082",
+						"382c5f5f-86c2-45ee-a7dc-e21300226687"
+					],
+					"stage": "axe_scan",
+					"timeCompleted2": "2023-02-17T23:10:10.017Z",
+					"timeStarted2": "2023-02-17T22:51:16.222Z",
+					"urlVisited": [
+						"https://www.citi.com",
+						"https://online.citi.com/US/ag/bank/registration/set-up-online-access",
+						"https://banking.citi.com/cbol/citigold/offer/default.htm?venue=OnsiteHP&BT_TX=1&ProspectID=986A551E4F2C49F5839477F6E8AF0D34"
+					],
+					"timeCompleted": "2023-02-17T23:10:10.017Z",
+					"parentScanId": "59bb8803-b7f5-497f-bb3b-8f3660d6742d",
+					"jobControl": "cancel"
+				},
+				{
+					"_id": "63f004e22201fbe1a544aee9",
+					"id": "167220b8-1fe1-4e87-b587-8fbb79feb749",
+					"urlVisited": [],
+					"timeStarted2": "-271821-04-20T00:00:00.000Z",
+					"timeCompleted2": "-271821-04-20T00:00:00.000Z",
+					"resultId": [],
+					"status": "queued",
+					"parentScanId": "59bb8803-b7f5-497f-bb3b-8f3660d6742d",
+					"timeInitialized": "2023-02-17T22:51:14.973Z",
+					"__v": 0
+				}
+			],
+			"application": {
+				"_id": "63f0016f2201fbe1a544aeab",
+				"id": "citi_test_50",
+				"name": "citi_test_50",
+				"__v": 0
+			},
+			"rule": {
+				"_id": "63f000b22201fbe1a544ae73",
+				"id": "CXS_APCA_CC",
+				"name": "CXS_APCA_CC",
+				"type": "Automated",
+				"tags": [],
+				"description": "Lc 90  to LC 15 : LC90 - Preferred level for fluent text and columns of body text with a font no smaller than 14px/weight 400 (normal) to a lower range (LC15) of absolute minimum for any non-text that needs to be discernible and differentiable, and is no less than 6px in its smallest dimension. https://www.myndex.com/APCA/",
+				"help": "Use the help URL https://www.myndex.com/APCA/ to manually check the background and text color and contrast",
+				"helpUrl": "https://www.myndex.com/APCA/",
+				"detailPrinciples": "perceivable",
+				"detailSuccessCriteria": "1.4.3 Contrast (Minimum)",
+				"detailLevel": "AA",
+				"detailWcag2021": "2.0",
+				"detailSec508": "NA",
+				"element": "text-decoration-color",
+				"issueCategory": "Color Contrast",
+				"issueClassification": "Color Contrast",
+				"issueName": "Color Contrast",
+				"impact": "Serious",
+				"remediationSummary": "Please find the link to resources which consists documentaiton for developes to fix the CC issue https://github.com/Myndex/SAPC-APCA/tree/master/documentation",
+				"actRuleId": "afw4f7, 09o5cg",
+				"actRuleDescription": "Text has minimum contrast\nText has enhanced contrast",
+				"successCriteriaDescription": "All text has a minimum contrast of 4.5:1",
+				"disability": "Vision",
+				"__v": 0
+			}
+		}
+	]
+}

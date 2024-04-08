@@ -1,0 +1,16 @@
+version: "3.8"
+
+x-logging: &default-logging
+  driver: journald
+services:
+
+  main_ui:
+    image: jenkins:5000/cxs/main_ui:BUILD_VERSION
+    restart: always
+    logging: *default-logging
+    #build: ./main-ui/docker
+    network_mode: host
+
+volumes:
+  cxscore-data:
+

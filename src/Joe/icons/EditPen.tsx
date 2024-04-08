@@ -1,0 +1,35 @@
+import { ReactElement } from "react";
+export const EditPen = ({ size }: { size: number }): ReactElement => {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 21 21"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g id="Complete">
+        <g id="edit">
+          <g id="Group">
+            <path
+              id="Vector"
+              d="M17.5 13.832V17.4987C17.5 17.9849 17.3068 18.4512 16.963 18.7951C16.6192 19.1389 16.1529 19.332 15.6667 19.332H2.83333C2.3471 19.332 1.88079 19.1389 1.53697 18.7951C1.19315 18.4512 1 17.9849 1 17.4987V4.66536C1 4.17913 1.19315 3.71282 1.53697 3.369C1.88079 3.02519 2.3471 2.83203 2.83333 2.83203H6.5"
+              stroke="#7C7C7C"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+            <path
+              id="Vector_2"
+              d="M10.625 13.65L19.3333 4.85L15.4833 1L6.775 9.70833L6.5 13.8333L10.625 13.65Z"
+              stroke="#7C7C7C"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+  );
+};

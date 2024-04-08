@@ -1,0 +1,22 @@
+.root {
+  @mixin hover {
+    box-shadow: var(--mantine-shadow-lg);
+  }
+  &[data-disabled] {
+    box-shadow: unset;
+    cursor: not-allowed;
+  }
+  &[data-variant="transparent"] {
+    @mixin hover {
+      box-shadow: unset;
+    }
+  }
+
+  &[data-variant="underline"] {
+    @mixin hover {
+      box-shadow: unset;
+      background-color: transparent;
+      text-decoration-line: underline;
+    }
+  }
+}

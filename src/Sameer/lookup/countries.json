@@ -1,0 +1,1962 @@
+[
+  {
+    "country": "Select a Location",
+    "Alpha-2 code": "default",
+    "Alpha-3 code": "Select",
+    "Numeric code": "Select",
+    "lat": 0,
+    "long": 0
+  },
+  {
+    "country": "Afghanistan",
+    "Alpha-2 code": "AF",
+    "Alpha-3 code": "AFG",
+    "Numeric code": 4,
+    "lat": 33,
+    "long": 65
+  },
+  {
+    "country": "Albania",
+    "Alpha-2 code": "AL",
+    "Alpha-3 code": "ALB",
+    "Numeric code": 8,
+    "lat": 41,
+    "long": 20
+  },
+  {
+    "country": "Algeria",
+    "Alpha-2 code": "DZ",
+    "Alpha-3 code": "DZA",
+    "Numeric code": 12,
+    "lat": 28,
+    "long": 3
+  },
+  {
+    "country": "American Samoa",
+    "Alpha-2 code": "AS",
+    "Alpha-3 code": "ASM",
+    "Numeric code": 16,
+    "lat": -14.3333,
+    "long": -170
+  },
+  {
+    "country": "Andorra",
+    "Alpha-2 code": "AD",
+    "Alpha-3 code": "AND",
+    "Numeric code": 20,
+    "lat": 42.5,
+    "long": 1.6
+  },
+  {
+    "country": "Angola",
+    "Alpha-2 code": "AO",
+    "Alpha-3 code": "AGO",
+    "Numeric code": 24,
+    "lat": -12.5,
+    "long": 18.5
+  },
+  {
+    "country": "Anguilla",
+    "Alpha-2 code": "AI",
+    "Alpha-3 code": "AIA",
+    "Numeric code": 660,
+    "lat": 18.25,
+    "long": -63.1667
+  },
+  {
+    "country": "Antarctica",
+    "Alpha-2 code": "AQ",
+    "Alpha-3 code": "ATA",
+    "Numeric code": 10,
+    "lat": -90,
+    "long": 0
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "Alpha-2 code": "AG",
+    "Alpha-3 code": "ATG",
+    "Numeric code": 28,
+    "lat": 17.05,
+    "long": -61.8
+  },
+  {
+    "country": "Argentina",
+    "Alpha-2 code": "AR",
+    "Alpha-3 code": "ARG",
+    "Numeric code": 32,
+    "lat": -34,
+    "long": -64
+  },
+  {
+    "country": "Armenia",
+    "Alpha-2 code": "AM",
+    "Alpha-3 code": "ARM",
+    "Numeric code": 51,
+    "lat": 40,
+    "long": 45
+  },
+  {
+    "country": "Aruba",
+    "Alpha-2 code": "AW",
+    "Alpha-3 code": "ABW",
+    "Numeric code": 533,
+    "lat": 12.5,
+    "long": -69.9667
+  },
+  {
+    "country": "Australia",
+    "Alpha-2 code": "AU",
+    "Alpha-3 code": "AUS",
+    "Numeric code": 36,
+    "lat": -27,
+    "long": 133
+  },
+  {
+    "country": "Austria",
+    "Alpha-2 code": "AT",
+    "Alpha-3 code": "AUT",
+    "Numeric code": 40,
+    "lat": 47.3333,
+    "long": 13.3333
+  },
+  {
+    "country": "Azerbaijan",
+    "Alpha-2 code": "AZ",
+    "Alpha-3 code": "AZE",
+    "Numeric code": 31,
+    "lat": 40.5,
+    "long": 47.5
+  },
+  {
+    "country": "Bahamas",
+    "Alpha-2 code": "BS",
+    "Alpha-3 code": "BHS",
+    "Numeric code": 44,
+    "lat": 24.25,
+    "long": -76
+  },
+  {
+    "country": "Bahrain",
+    "Alpha-2 code": "BH",
+    "Alpha-3 code": "BHR",
+    "Numeric code": 48,
+    "lat": 26,
+    "long": 50.55
+  },
+  {
+    "country": "Bangladesh",
+    "Alpha-2 code": "BD",
+    "Alpha-3 code": "BGD",
+    "Numeric code": 50,
+    "lat": 24,
+    "long": 90
+  },
+  {
+    "country": "Barbados",
+    "Alpha-2 code": "BB",
+    "Alpha-3 code": "BRB",
+    "Numeric code": 52,
+    "lat": 13.1667,
+    "long": -59.5333
+  },
+  {
+    "country": "Belarus",
+    "Alpha-2 code": "BY",
+    "Alpha-3 code": "BLR",
+    "Numeric code": 112,
+    "lat": 53,
+    "long": 28
+  },
+  {
+    "country": "Belgium",
+    "Alpha-2 code": "BE",
+    "Alpha-3 code": "BEL",
+    "Numeric code": 56,
+    "lat": 50.8333,
+    "long": 4
+  },
+  {
+    "country": "Belize",
+    "Alpha-2 code": "BZ",
+    "Alpha-3 code": "BLZ",
+    "Numeric code": 84,
+    "lat": 17.25,
+    "long": -88.75
+  },
+  {
+    "country": "Benin",
+    "Alpha-2 code": "BJ",
+    "Alpha-3 code": "BEN",
+    "Numeric code": 204,
+    "lat": 9.5,
+    "long": 2.25
+  },
+  {
+    "country": "Bermuda",
+    "Alpha-2 code": "BM",
+    "Alpha-3 code": "BMU",
+    "Numeric code": 60,
+    "lat": 32.3333,
+    "long": -64.75
+  },
+  {
+    "country": "Bhutan",
+    "Alpha-2 code": "BT",
+    "Alpha-3 code": "BTN",
+    "Numeric code": 64,
+    "lat": 27.5,
+    "long": 90.5
+  },
+  {
+    "country": "Bolivia, Plurinational State of",
+    "Alpha-2 code": "BO",
+    "Alpha-3 code": "BOL",
+    "Numeric code": 68,
+    "lat": -17,
+    "long": -65
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "Alpha-2 code": "BA",
+    "Alpha-3 code": "BIH",
+    "Numeric code": 70,
+    "lat": 44,
+    "long": 18
+  },
+  {
+    "country": "Botswana",
+    "Alpha-2 code": "BW",
+    "Alpha-3 code": "BWA",
+    "Numeric code": 72,
+    "lat": -22,
+    "long": 24
+  },
+  {
+    "country": "Bouvet Island",
+    "Alpha-2 code": "BV",
+    "Alpha-3 code": "BVT",
+    "Numeric code": 74,
+    "lat": -54.4333,
+    "long": 3.4
+  },
+  {
+    "country": "Brazil",
+    "Alpha-2 code": "BR",
+    "Alpha-3 code": "BRA",
+    "Numeric code": 76,
+    "lat": -10,
+    "long": -55
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "Alpha-2 code": "IO",
+    "Alpha-3 code": "IOT",
+    "Numeric code": 86,
+    "lat": -6,
+    "long": 71.5
+  },
+  {
+    "country": "Brunei Darussalam",
+    "Alpha-2 code": "BN",
+    "Alpha-3 code": "BRN",
+    "Numeric code": 96,
+    "lat": 4.5,
+    "long": 114.6667
+  },
+  {
+    "country": "Bulgaria",
+    "Alpha-2 code": "BG",
+    "Alpha-3 code": "BGR",
+    "Numeric code": 100,
+    "lat": 43,
+    "long": 25
+  },
+  {
+    "country": "Burkina Faso",
+    "Alpha-2 code": "BF",
+    "Alpha-3 code": "BFA",
+    "Numeric code": 854,
+    "lat": 13,
+    "long": -2
+  },
+  {
+    "country": "Burundi",
+    "Alpha-2 code": "BI",
+    "Alpha-3 code": "BDI",
+    "Numeric code": 108,
+    "lat": -3.5,
+    "long": 30
+  },
+  {
+    "country": "Cambodia",
+    "Alpha-2 code": "KH",
+    "Alpha-3 code": "KHM",
+    "Numeric code": 116,
+    "lat": 13,
+    "long": 105
+  },
+  {
+    "country": "Cameroon",
+    "Alpha-2 code": "CM",
+    "Alpha-3 code": "CMR",
+    "Numeric code": 120,
+    "lat": 6,
+    "long": 12
+  },
+  {
+    "country": "Canada",
+    "Alpha-2 code": "CA",
+    "Alpha-3 code": "CAN",
+    "Numeric code": 124,
+    "lat": 60,
+    "long": -95
+  },
+  {
+    "country": "Cape Verde",
+    "Alpha-2 code": "CV",
+    "Alpha-3 code": "CPV",
+    "Numeric code": 132,
+    "lat": 16,
+    "long": -24
+  },
+  {
+    "country": "Cayman Islands",
+    "Alpha-2 code": "KY",
+    "Alpha-3 code": "CYM",
+    "Numeric code": 136,
+    "lat": 19.5,
+    "long": -80.5
+  },
+  {
+    "country": "Central African Republic",
+    "Alpha-2 code": "CF",
+    "Alpha-3 code": "CAF",
+    "Numeric code": 140,
+    "lat": 7,
+    "long": 21
+  },
+  {
+    "country": "Chad",
+    "Alpha-2 code": "TD",
+    "Alpha-3 code": "TCD",
+    "Numeric code": 148,
+    "lat": 15,
+    "long": 19
+  },
+  {
+    "country": "Chile",
+    "Alpha-2 code": "CL",
+    "Alpha-3 code": "CHL",
+    "Numeric code": 152,
+    "lat": -30,
+    "long": -71
+  },
+  {
+    "country": "China",
+    "Alpha-2 code": "CN",
+    "Alpha-3 code": "CHN",
+    "Numeric code": 156,
+    "lat": 35,
+    "long": 105
+  },
+  {
+    "country": "Christmas Island",
+    "Alpha-2 code": "CX",
+    "Alpha-3 code": "CXR",
+    "Numeric code": 162,
+    "lat": -10.5,
+    "long": 105.6667
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "Alpha-2 code": "CC",
+    "Alpha-3 code": "CCK",
+    "Numeric code": 166,
+    "lat": -12.5,
+    "long": 96.8333
+  },
+  {
+    "country": "Colombia",
+    "Alpha-2 code": "CO",
+    "Alpha-3 code": "COL",
+    "Numeric code": 170,
+    "lat": 4,
+    "long": -72
+  },
+  {
+    "country": "Comoros",
+    "Alpha-2 code": "KM",
+    "Alpha-3 code": "COM",
+    "Numeric code": 174,
+    "lat": -12.1667,
+    "long": 44.25
+  },
+  {
+    "country": "Congo",
+    "Alpha-2 code": "CG",
+    "Alpha-3 code": "COG",
+    "Numeric code": 178,
+    "lat": -1,
+    "long": 15
+  },
+  {
+    "country": "Congo, the Democratic Republic of the",
+    "Alpha-2 code": "CD",
+    "Alpha-3 code": "COD",
+    "Numeric code": 180,
+    "lat": 0,
+    "long": 25
+  },
+  {
+    "country": "Cook Islands",
+    "Alpha-2 code": "CK",
+    "Alpha-3 code": "COK",
+    "Numeric code": 184,
+    "lat": -21.2333,
+    "long": -159.7667
+  },
+  {
+    "country": "Costa Rica",
+    "Alpha-2 code": "CR",
+    "Alpha-3 code": "CRI",
+    "Numeric code": 188,
+    "lat": 10,
+    "long": -84
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "Alpha-2 code": "CI",
+    "Alpha-3 code": "CIV",
+    "Numeric code": 384,
+    "lat": 8,
+    "long": -5
+  },
+  {
+    "country": "Croatia",
+    "Alpha-2 code": "HR",
+    "Alpha-3 code": "HRV",
+    "Numeric code": 191,
+    "lat": 45.1667,
+    "long": 15.5
+  },
+  {
+    "country": "Cuba",
+    "Alpha-2 code": "CU",
+    "Alpha-3 code": "CUB",
+    "Numeric code": 192,
+    "lat": 21.5,
+    "long": -80
+  },
+  {
+    "country": "Cyprus",
+    "Alpha-2 code": "CY",
+    "Alpha-3 code": "CYP",
+    "Numeric code": 196,
+    "lat": 35,
+    "long": 33
+  },
+  {
+    "country": "Czech Republic",
+    "Alpha-2 code": "CZ",
+    "Alpha-3 code": "CZE",
+    "Numeric code": 203,
+    "lat": 49.75,
+    "long": 15.5
+  },
+  {
+    "country": "Denmark",
+    "Alpha-2 code": "DK",
+    "Alpha-3 code": "DNK",
+    "Numeric code": 208,
+    "lat": 56,
+    "long": 10
+  },
+  {
+    "country": "Djibouti",
+    "Alpha-2 code": "DJ",
+    "Alpha-3 code": "DJI",
+    "Numeric code": 262,
+    "lat": 11.5,
+    "long": 43
+  },
+  {
+    "country": "Dominica",
+    "Alpha-2 code": "DM",
+    "Alpha-3 code": "DMA",
+    "Numeric code": 212,
+    "lat": 15.4167,
+    "long": -61.3333
+  },
+  {
+    "country": "Dominican Republic",
+    "Alpha-2 code": "DO",
+    "Alpha-3 code": "DOM",
+    "Numeric code": 214,
+    "lat": 19,
+    "long": -70.6667
+  },
+  {
+    "country": "Ecuador",
+    "Alpha-2 code": "EC",
+    "Alpha-3 code": "ECU",
+    "Numeric code": 218,
+    "lat": -2,
+    "long": -77.5
+  },
+  {
+    "country": "Egypt",
+    "Alpha-2 code": "EG",
+    "Alpha-3 code": "EGY",
+    "Numeric code": 818,
+    "lat": 27,
+    "long": 30
+  },
+  {
+    "country": "El Salvador",
+    "Alpha-2 code": "SV",
+    "Alpha-3 code": "SLV",
+    "Numeric code": 222,
+    "lat": 13.8333,
+    "long": -88.9167
+  },
+  {
+    "country": "Equatorial Guinea",
+    "Alpha-2 code": "GQ",
+    "Alpha-3 code": "GNQ",
+    "Numeric code": 226,
+    "lat": 2,
+    "long": 10
+  },
+  {
+    "country": "Eritrea",
+    "Alpha-2 code": "ER",
+    "Alpha-3 code": "ERI",
+    "Numeric code": 232,
+    "lat": 15,
+    "long": 39
+  },
+  {
+    "country": "Estonia",
+    "Alpha-2 code": "EE",
+    "Alpha-3 code": "EST",
+    "Numeric code": 233,
+    "lat": 59,
+    "long": 26
+  },
+  {
+    "country": "Ethiopia",
+    "Alpha-2 code": "ET",
+    "Alpha-3 code": "ETH",
+    "Numeric code": 231,
+    "lat": 8,
+    "long": 38
+  },
+  {
+    "country": "Falkland Islands (Malvinas)",
+    "Alpha-2 code": "FK",
+    "Alpha-3 code": "FLK",
+    "Numeric code": 238,
+    "lat": -51.75,
+    "long": -59
+  },
+  {
+    "country": "Faroe Islands",
+    "Alpha-2 code": "FO",
+    "Alpha-3 code": "FRO",
+    "Numeric code": 234,
+    "lat": 62,
+    "long": -7
+  },
+  {
+    "country": "Fiji",
+    "Alpha-2 code": "FJ",
+    "Alpha-3 code": "FJI",
+    "Numeric code": 242,
+    "lat": -18,
+    "long": 175
+  },
+  {
+    "country": "Finland",
+    "Alpha-2 code": "FI",
+    "Alpha-3 code": "FIN",
+    "Numeric code": 246,
+    "lat": 64,
+    "long": 26
+  },
+  {
+    "country": "France",
+    "Alpha-2 code": "FR",
+    "Alpha-3 code": "FRA",
+    "Numeric code": 250,
+    "lat": 46,
+    "long": 2
+  },
+  {
+    "country": "French Guiana",
+    "Alpha-2 code": "GF",
+    "Alpha-3 code": "GUF",
+    "Numeric code": 254,
+    "lat": 4,
+    "long": -53
+  },
+  {
+    "country": "French Polynesia",
+    "Alpha-2 code": "PF",
+    "Alpha-3 code": "PYF",
+    "Numeric code": 258,
+    "lat": -15,
+    "long": -140
+  },
+  {
+    "country": "French Southern Territories",
+    "Alpha-2 code": "TF",
+    "Alpha-3 code": "ATF",
+    "Numeric code": 260,
+    "lat": -43,
+    "long": 67
+  },
+  {
+    "country": "Gabon",
+    "Alpha-2 code": "GA",
+    "Alpha-3 code": "GAB",
+    "Numeric code": 266,
+    "lat": -1,
+    "long": 11.75
+  },
+  {
+    "country": "Gambia",
+    "Alpha-2 code": "GM",
+    "Alpha-3 code": "GMB",
+    "Numeric code": 270,
+    "lat": 13.4667,
+    "long": -16.5667
+  },
+  {
+    "country": "Georgia",
+    "Alpha-2 code": "GE",
+    "Alpha-3 code": "GEO",
+    "Numeric code": 268,
+    "lat": 42,
+    "long": 43.5
+  },
+  {
+    "country": "Germany",
+    "Alpha-2 code": "DE",
+    "Alpha-3 code": "DEU",
+    "Numeric code": 276,
+    "lat": 51,
+    "long": 9
+  },
+  {
+    "country": "Ghana",
+    "Alpha-2 code": "GH",
+    "Alpha-3 code": "GHA",
+    "Numeric code": 288,
+    "lat": 8,
+    "long": -2
+  },
+  {
+    "country": "Gibraltar",
+    "Alpha-2 code": "GI",
+    "Alpha-3 code": "GIB",
+    "Numeric code": 292,
+    "lat": 36.1833,
+    "long": -5.3667
+  },
+  {
+    "country": "Greece",
+    "Alpha-2 code": "GR",
+    "Alpha-3 code": "GRC",
+    "Numeric code": 300,
+    "lat": 39,
+    "long": 22
+  },
+  {
+    "country": "Greenland",
+    "Alpha-2 code": "GL",
+    "Alpha-3 code": "GRL",
+    "Numeric code": 304,
+    "lat": 72,
+    "long": -40
+  },
+  {
+    "country": "Grenada",
+    "Alpha-2 code": "GD",
+    "Alpha-3 code": "GRD",
+    "Numeric code": 308,
+    "lat": 12.1167,
+    "long": -61.6667
+  },
+  {
+    "country": "Guadeloupe",
+    "Alpha-2 code": "GP",
+    "Alpha-3 code": "GLP",
+    "Numeric code": 312,
+    "lat": 16.25,
+    "long": -61.5833
+  },
+  {
+    "country": "Guam",
+    "Alpha-2 code": "GU",
+    "Alpha-3 code": "GUM",
+    "Numeric code": 316,
+    "lat": 13.4667,
+    "long": 144.7833
+  },
+  {
+    "country": "Guatemala",
+    "Alpha-2 code": "GT",
+    "Alpha-3 code": "GTM",
+    "Numeric code": 320,
+    "lat": 15.5,
+    "long": -90.25
+  },
+  {
+    "country": "Guernsey",
+    "Alpha-2 code": "GG",
+    "Alpha-3 code": "GGY",
+    "Numeric code": 831,
+    "lat": 49.5,
+    "long": -2.56
+  },
+  {
+    "country": "Guinea",
+    "Alpha-2 code": "GN",
+    "Alpha-3 code": "GIN",
+    "Numeric code": 324,
+    "lat": 11,
+    "long": -10
+  },
+  {
+    "country": "Guinea-Bissau",
+    "Alpha-2 code": "GW",
+    "Alpha-3 code": "GNB",
+    "Numeric code": 624,
+    "lat": 12,
+    "long": -15
+  },
+  {
+    "country": "Guyana",
+    "Alpha-2 code": "GY",
+    "Alpha-3 code": "GUY",
+    "Numeric code": 328,
+    "lat": 5,
+    "long": -59
+  },
+  {
+    "country": "Haiti",
+    "Alpha-2 code": "HT",
+    "Alpha-3 code": "HTI",
+    "Numeric code": 332,
+    "lat": 19,
+    "long": -72.4167
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "Alpha-2 code": "HM",
+    "Alpha-3 code": "HMD",
+    "Numeric code": 334,
+    "lat": -53.1,
+    "long": 72.5167
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "Alpha-2 code": "VA",
+    "Alpha-3 code": "VAT",
+    "Numeric code": 336,
+    "lat": 41.9,
+    "long": 12.45
+  },
+  {
+    "country": "Honduras",
+    "Alpha-2 code": "HN",
+    "Alpha-3 code": "HND",
+    "Numeric code": 340,
+    "lat": 15,
+    "long": -86.5
+  },
+  {
+    "country": "Hong Kong",
+    "Alpha-2 code": "HK",
+    "Alpha-3 code": "HKG",
+    "Numeric code": 344,
+    "lat": 22.25,
+    "long": 114.1667
+  },
+  {
+    "country": "Hungary",
+    "Alpha-2 code": "HU",
+    "Alpha-3 code": "HUN",
+    "Numeric code": 348,
+    "lat": 47,
+    "long": 20
+  },
+  {
+    "country": "Iceland",
+    "Alpha-2 code": "IS",
+    "Alpha-3 code": "ISL",
+    "Numeric code": 352,
+    "lat": 65,
+    "long": -18
+  },
+  {
+    "country": "India",
+    "Alpha-2 code": "IN",
+    "Alpha-3 code": "IND",
+    "Numeric code": 356,
+    "lat": 20,
+    "long": 77
+  },
+  {
+    "country": "Indonesia",
+    "Alpha-2 code": "ID",
+    "Alpha-3 code": "IDN",
+    "Numeric code": 360,
+    "lat": -5,
+    "long": 120
+  },
+  {
+    "country": "Iran, Islamic Republic of",
+    "Alpha-2 code": "IR",
+    "Alpha-3 code": "IRN",
+    "Numeric code": 364,
+    "lat": 32,
+    "long": 53
+  },
+  {
+    "country": "Iraq",
+    "Alpha-2 code": "IQ",
+    "Alpha-3 code": "IRQ",
+    "Numeric code": 368,
+    "lat": 33,
+    "long": 44
+  },
+  {
+    "country": "Ireland",
+    "Alpha-2 code": "IE",
+    "Alpha-3 code": "IRL",
+    "Numeric code": 372,
+    "lat": 53,
+    "long": -8
+  },
+  {
+    "country": "Isle of Man",
+    "Alpha-2 code": "IM",
+    "Alpha-3 code": "IMN",
+    "Numeric code": 833,
+    "lat": 54.23,
+    "long": -4.55
+  },
+  {
+    "country": "Israel",
+    "Alpha-2 code": "IL",
+    "Alpha-3 code": "ISR",
+    "Numeric code": 376,
+    "lat": 31.5,
+    "long": 34.75
+  },
+  {
+    "country": "Italy",
+    "Alpha-2 code": "IT",
+    "Alpha-3 code": "ITA",
+    "Numeric code": 380,
+    "lat": 42.8333,
+    "long": 12.8333
+  },
+  {
+    "country": "Jamaica",
+    "Alpha-2 code": "JM",
+    "Alpha-3 code": "JAM",
+    "Numeric code": 388,
+    "lat": 18.25,
+    "long": -77.5
+  },
+  {
+    "country": "Japan",
+    "Alpha-2 code": "JP",
+    "Alpha-3 code": "JPN",
+    "Numeric code": 392,
+    "lat": 36,
+    "long": 138
+  },
+  {
+    "country": "Jersey",
+    "Alpha-2 code": "JE",
+    "Alpha-3 code": "JEY",
+    "Numeric code": 832,
+    "lat": 49.21,
+    "long": -2.13
+  },
+  {
+    "country": "Jordan",
+    "Alpha-2 code": "JO",
+    "Alpha-3 code": "JOR",
+    "Numeric code": 400,
+    "lat": 31,
+    "long": 36
+  },
+  {
+    "country": "Kazakhstan",
+    "Alpha-2 code": "KZ",
+    "Alpha-3 code": "KAZ",
+    "Numeric code": 398,
+    "lat": 48,
+    "long": 68
+  },
+  {
+    "country": "Kenya",
+    "Alpha-2 code": "KE",
+    "Alpha-3 code": "KEN",
+    "Numeric code": 404,
+    "lat": 1,
+    "long": 38
+  },
+  {
+    "country": "Kiribati",
+    "Alpha-2 code": "KI",
+    "Alpha-3 code": "KIR",
+    "Numeric code": 296,
+    "lat": 1.4167,
+    "long": 173
+  },
+  {
+    "country": "Korea, Democratic People's Republic of",
+    "Alpha-2 code": "KP",
+    "Alpha-3 code": "PRK",
+    "Numeric code": 408,
+    "lat": 40,
+    "long": 127
+  },
+  {
+    "country": "Korea, Republic of",
+    "Alpha-2 code": "KR",
+    "Alpha-3 code": "KOR",
+    "Numeric code": 410,
+    "lat": 37,
+    "long": 127.5
+  },
+  {
+    "country": "Kuwait",
+    "Alpha-2 code": "KW",
+    "Alpha-3 code": "KWT",
+    "Numeric code": 414,
+    "lat": 29.3375,
+    "long": 47.6581
+  },
+  {
+    "country": "Kyrgyzstan",
+    "Alpha-2 code": "KG",
+    "Alpha-3 code": "KGZ",
+    "Numeric code": 417,
+    "lat": 41,
+    "long": 75
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "Alpha-2 code": "LA",
+    "Alpha-3 code": "LAO",
+    "Numeric code": 418,
+    "lat": 18,
+    "long": 105
+  },
+  {
+    "country": "Latvia",
+    "Alpha-2 code": "LV",
+    "Alpha-3 code": "LVA",
+    "Numeric code": 428,
+    "lat": 57,
+    "long": 25
+  },
+  {
+    "country": "Lebanon",
+    "Alpha-2 code": "LB",
+    "Alpha-3 code": "LBN",
+    "Numeric code": 422,
+    "lat": 33.8333,
+    "long": 35.8333
+  },
+  {
+    "country": "Lesotho",
+    "Alpha-2 code": "LS",
+    "Alpha-3 code": "LSO",
+    "Numeric code": 426,
+    "lat": -29.5,
+    "long": 28.5
+  },
+  {
+    "country": "Liberia",
+    "Alpha-2 code": "LR",
+    "Alpha-3 code": "LBR",
+    "Numeric code": 430,
+    "lat": 6.5,
+    "long": -9.5
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "Alpha-2 code": "LY",
+    "Alpha-3 code": "LBY",
+    "Numeric code": 434,
+    "lat": 25,
+    "long": 17
+  },
+  {
+    "country": "Liechtenstein",
+    "Alpha-2 code": "LI",
+    "Alpha-3 code": "LIE",
+    "Numeric code": 438,
+    "lat": 47.1667,
+    "long": 9.5333
+  },
+  {
+    "country": "Lithuania",
+    "Alpha-2 code": "LT",
+    "Alpha-3 code": "LTU",
+    "Numeric code": 440,
+    "lat": 56,
+    "long": 24
+  },
+  {
+    "country": "Luxembourg",
+    "Alpha-2 code": "LU",
+    "Alpha-3 code": "LUX",
+    "Numeric code": 442,
+    "lat": 49.75,
+    "long": 6.1667
+  },
+  {
+    "country": "Macao",
+    "Alpha-2 code": "MO",
+    "Alpha-3 code": "MAC",
+    "Numeric code": 446,
+    "lat": 22.1667,
+    "long": 113.55
+  },
+  {
+    "country": "Macedonia, the former Yugoslav Republic of",
+    "Alpha-2 code": "MK",
+    "Alpha-3 code": "MKD",
+    "Numeric code": 807,
+    "lat": 41.8333,
+    "long": 22
+  },
+  {
+    "country": "Madagascar",
+    "Alpha-2 code": "MG",
+    "Alpha-3 code": "MDG",
+    "Numeric code": 450,
+    "lat": -20,
+    "long": 47
+  },
+  {
+    "country": "Malawi",
+    "Alpha-2 code": "MW",
+    "Alpha-3 code": "MWI",
+    "Numeric code": 454,
+    "lat": -13.5,
+    "long": 34
+  },
+  {
+    "country": "Malaysia",
+    "Alpha-2 code": "MY",
+    "Alpha-3 code": "MYS",
+    "Numeric code": 458,
+    "lat": 2.5,
+    "long": 112.5
+  },
+  {
+    "country": "Maldives",
+    "Alpha-2 code": "MV",
+    "Alpha-3 code": "MDV",
+    "Numeric code": 462,
+    "lat": 3.25,
+    "long": 73
+  },
+  {
+    "country": "Mali",
+    "Alpha-2 code": "ML",
+    "Alpha-3 code": "MLI",
+    "Numeric code": 466,
+    "lat": 17,
+    "long": -4
+  },
+  {
+    "country": "Malta",
+    "Alpha-2 code": "MT",
+    "Alpha-3 code": "MLT",
+    "Numeric code": 470,
+    "lat": 35.8333,
+    "long": 14.5833
+  },
+  {
+    "country": "Marshall Islands",
+    "Alpha-2 code": "MH",
+    "Alpha-3 code": "MHL",
+    "Numeric code": 584,
+    "lat": 9,
+    "long": 168
+  },
+  {
+    "country": "Martinique",
+    "Alpha-2 code": "MQ",
+    "Alpha-3 code": "MTQ",
+    "Numeric code": 474,
+    "lat": 14.6667,
+    "long": -61
+  },
+  {
+    "country": "Mauritania",
+    "Alpha-2 code": "MR",
+    "Alpha-3 code": "MRT",
+    "Numeric code": 478,
+    "lat": 20,
+    "long": -12
+  },
+  {
+    "country": "Mauritius",
+    "Alpha-2 code": "MU",
+    "Alpha-3 code": "MUS",
+    "Numeric code": 480,
+    "lat": -20.2833,
+    "long": 57.55
+  },
+  {
+    "country": "Mayotte",
+    "Alpha-2 code": "YT",
+    "Alpha-3 code": "MYT",
+    "Numeric code": 175,
+    "lat": -12.8333,
+    "long": 45.1667
+  },
+  {
+    "country": "Mexico",
+    "Alpha-2 code": "MX",
+    "Alpha-3 code": "MEX",
+    "Numeric code": 484,
+    "lat": 23,
+    "long": -102
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "Alpha-2 code": "FM",
+    "Alpha-3 code": "FSM",
+    "Numeric code": 583,
+    "lat": 6.9167,
+    "long": 158.25
+  },
+  {
+    "country": "Moldova, Republic of",
+    "Alpha-2 code": "MD",
+    "Alpha-3 code": "MDA",
+    "Numeric code": 498,
+    "lat": 47,
+    "long": 29
+  },
+  {
+    "country": "Monaco",
+    "Alpha-2 code": "MC",
+    "Alpha-3 code": "MCO",
+    "Numeric code": 492,
+    "lat": 43.7333,
+    "long": 7.4
+  },
+  {
+    "country": "Mongolia",
+    "Alpha-2 code": "MN",
+    "Alpha-3 code": "MNG",
+    "Numeric code": 496,
+    "lat": 46,
+    "long": 105
+  },
+  {
+    "country": "Montenegro",
+    "Alpha-2 code": "ME",
+    "Alpha-3 code": "MNE",
+    "Numeric code": 499,
+    "lat": 42,
+    "long": 19
+  },
+  {
+    "country": "Montserrat",
+    "Alpha-2 code": "MS",
+    "Alpha-3 code": "MSR",
+    "Numeric code": 500,
+    "lat": 16.75,
+    "long": -62.2
+  },
+  {
+    "country": "Morocco",
+    "Alpha-2 code": "MA",
+    "Alpha-3 code": "MAR",
+    "Numeric code": 504,
+    "lat": 32,
+    "long": -5
+  },
+  {
+    "country": "Mozambique",
+    "Alpha-2 code": "MZ",
+    "Alpha-3 code": "MOZ",
+    "Numeric code": 508,
+    "lat": -18.25,
+    "long": 35
+  },
+  {
+    "country": "Myanmar",
+    "Alpha-2 code": "MM",
+    "Alpha-3 code": "MMR",
+    "Numeric code": 104,
+    "lat": 22,
+    "long": 98
+  },
+  {
+    "country": "Namibia",
+    "Alpha-2 code": "NA",
+    "Alpha-3 code": "NAM",
+    "Numeric code": 516,
+    "lat": -22,
+    "long": 17
+  },
+  {
+    "country": "Nauru",
+    "Alpha-2 code": "NR",
+    "Alpha-3 code": "NRU",
+    "Numeric code": 520,
+    "lat": -0.5333,
+    "long": 166.9167
+  },
+  {
+    "country": "Nepal",
+    "Alpha-2 code": "NP",
+    "Alpha-3 code": "NPL",
+    "Numeric code": 524,
+    "lat": 28,
+    "long": 84
+  },
+  {
+    "country": "Netherlands",
+    "Alpha-2 code": "NL",
+    "Alpha-3 code": "NLD",
+    "Numeric code": 528,
+    "lat": 52.5,
+    "long": 5.75
+  },
+  {
+    "country": "Netherlands Antilles",
+    "Alpha-2 code": "AN",
+    "Alpha-3 code": "ANT",
+    "Numeric code": 530,
+    "lat": 12.25,
+    "long": -68.75
+  },
+  {
+    "country": "New Caledonia",
+    "Alpha-2 code": "NC",
+    "Alpha-3 code": "NCL",
+    "Numeric code": 540,
+    "lat": -21.5,
+    "long": 165.5
+  },
+  {
+    "country": "New Zealand",
+    "Alpha-2 code": "NZ",
+    "Alpha-3 code": "NZL",
+    "Numeric code": 554,
+    "lat": -41,
+    "long": 174
+  },
+  {
+    "country": "Nicaragua",
+    "Alpha-2 code": "NI",
+    "Alpha-3 code": "NIC",
+    "Numeric code": 558,
+    "lat": 13,
+    "long": -85
+  },
+  {
+    "country": "Niger",
+    "Alpha-2 code": "NE",
+    "Alpha-3 code": "NER",
+    "Numeric code": 562,
+    "lat": 16,
+    "long": 8
+  },
+  {
+    "country": "Nigeria",
+    "Alpha-2 code": "NG",
+    "Alpha-3 code": "NGA",
+    "Numeric code": 566,
+    "lat": 10,
+    "long": 8
+  },
+  {
+    "country": "Niue",
+    "Alpha-2 code": "NU",
+    "Alpha-3 code": "NIU",
+    "Numeric code": 570,
+    "lat": -19.0333,
+    "long": -169.8667
+  },
+  {
+    "country": "Norfolk Island",
+    "Alpha-2 code": "NF",
+    "Alpha-3 code": "NFK",
+    "Numeric code": 574,
+    "lat": -29.0333,
+    "long": 167.95
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "Alpha-2 code": "MP",
+    "Alpha-3 code": "MNP",
+    "Numeric code": 580,
+    "lat": 15.2,
+    "long": 145.75
+  },
+  {
+    "country": "Norway",
+    "Alpha-2 code": "NO",
+    "Alpha-3 code": "NOR",
+    "Numeric code": 578,
+    "lat": 62,
+    "long": 10
+  },
+  {
+    "country": "Oman",
+    "Alpha-2 code": "OM",
+    "Alpha-3 code": "OMN",
+    "Numeric code": 512,
+    "lat": 21,
+    "long": 57
+  },
+  {
+    "country": "Pakistan",
+    "Alpha-2 code": "PK",
+    "Alpha-3 code": "PAK",
+    "Numeric code": 586,
+    "lat": 30,
+    "long": 70
+  },
+  {
+    "country": "Palau",
+    "Alpha-2 code": "PW",
+    "Alpha-3 code": "PLW",
+    "Numeric code": 585,
+    "lat": 7.5,
+    "long": 134.5
+  },
+  {
+    "country": "Palestinian Territory, Occupied",
+    "Alpha-2 code": "PS",
+    "Alpha-3 code": "PSE",
+    "Numeric code": 275,
+    "lat": 32,
+    "long": 35.25
+  },
+  {
+    "country": "Panama",
+    "Alpha-2 code": "PA",
+    "Alpha-3 code": "PAN",
+    "Numeric code": 591,
+    "lat": 9,
+    "long": -80
+  },
+  {
+    "country": "Papua New Guinea",
+    "Alpha-2 code": "PG",
+    "Alpha-3 code": "PNG",
+    "Numeric code": 598,
+    "lat": -6,
+    "long": 147
+  },
+  {
+    "country": "Paraguay",
+    "Alpha-2 code": "PY",
+    "Alpha-3 code": "PRY",
+    "Numeric code": 600,
+    "lat": -23,
+    "long": -58
+  },
+  {
+    "country": "Peru",
+    "Alpha-2 code": "PE",
+    "Alpha-3 code": "PER",
+    "Numeric code": 604,
+    "lat": -10,
+    "long": -76
+  },
+  {
+    "country": "Philippines",
+    "Alpha-2 code": "PH",
+    "Alpha-3 code": "PHL",
+    "Numeric code": 608,
+    "lat": 13,
+    "long": 122
+  },
+  {
+    "country": "Pitcairn",
+    "Alpha-2 code": "PN",
+    "Alpha-3 code": "PCN",
+    "Numeric code": 612,
+    "lat": -24.7,
+    "long": -127.4
+  },
+  {
+    "country": "Poland",
+    "Alpha-2 code": "PL",
+    "Alpha-3 code": "POL",
+    "Numeric code": 616,
+    "lat": 52,
+    "long": 20
+  },
+  {
+    "country": "Portugal",
+    "Alpha-2 code": "PT",
+    "Alpha-3 code": "PRT",
+    "Numeric code": 620,
+    "lat": 39.5,
+    "long": -8
+  },
+  {
+    "country": "Puerto Rico",
+    "Alpha-2 code": "PR",
+    "Alpha-3 code": "PRI",
+    "Numeric code": 630,
+    "lat": 18.25,
+    "long": -66.5
+  },
+  {
+    "country": "Qatar",
+    "Alpha-2 code": "QA",
+    "Alpha-3 code": "QAT",
+    "Numeric code": 634,
+    "lat": 25.5,
+    "long": 51.25
+  },
+  {
+    "country": "Réunion",
+    "Alpha-2 code": "RE",
+    "Alpha-3 code": "REU",
+    "Numeric code": 638,
+    "lat": -21.1,
+    "long": 55.6
+  },
+  {
+    "country": "Romania",
+    "Alpha-2 code": "RO",
+    "Alpha-3 code": "ROU",
+    "Numeric code": 642,
+    "lat": 46,
+    "long": 25
+  },
+  {
+    "country": "Russian Federation",
+    "Alpha-2 code": "RU",
+    "Alpha-3 code": "RUS",
+    "Numeric code": 643,
+    "lat": 60,
+    "long": 100
+  },
+  {
+    "country": "Rwanda",
+    "Alpha-2 code": "RW",
+    "Alpha-3 code": "RWA",
+    "Numeric code": 646,
+    "lat": -2,
+    "long": 30
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "Alpha-2 code": "SH",
+    "Alpha-3 code": "SHN",
+    "Numeric code": 654,
+    "lat": -15.9333,
+    "long": -5.7
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "Alpha-2 code": "KN",
+    "Alpha-3 code": "KNA",
+    "Numeric code": 659,
+    "lat": 17.3333,
+    "long": -62.75
+  },
+  {
+    "country": "Saint Lucia",
+    "Alpha-2 code": "LC",
+    "Alpha-3 code": "LCA",
+    "Numeric code": 662,
+    "lat": 13.8833,
+    "long": -61.1333
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "Alpha-2 code": "PM",
+    "Alpha-3 code": "SPM",
+    "Numeric code": 666,
+    "lat": 46.8333,
+    "long": -56.3333
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "Alpha-2 code": "VC",
+    "Alpha-3 code": "VCT",
+    "Numeric code": 670,
+    "lat": 13.25,
+    "long": -61.2
+  },
+  {
+    "country": "Samoa",
+    "Alpha-2 code": "WS",
+    "Alpha-3 code": "WSM",
+    "Numeric code": 882,
+    "lat": -13.5833,
+    "long": -172.3333
+  },
+  {
+    "country": "San Marino",
+    "Alpha-2 code": "SM",
+    "Alpha-3 code": "SMR",
+    "Numeric code": 674,
+    "lat": 43.7667,
+    "long": 12.4167
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "Alpha-2 code": "ST",
+    "Alpha-3 code": "STP",
+    "Numeric code": 678,
+    "lat": 1,
+    "long": 7
+  },
+  {
+    "country": "Saudi Arabia",
+    "Alpha-2 code": "SA",
+    "Alpha-3 code": "SAU",
+    "Numeric code": 682,
+    "lat": 25,
+    "long": 45
+  },
+  {
+    "country": "Senegal",
+    "Alpha-2 code": "SN",
+    "Alpha-3 code": "SEN",
+    "Numeric code": 686,
+    "lat": 14,
+    "long": -14
+  },
+  {
+    "country": "Serbia",
+    "Alpha-2 code": "RS",
+    "Alpha-3 code": "SRB",
+    "Numeric code": 688,
+    "lat": 44,
+    "long": 21
+  },
+  {
+    "country": "Seychelles",
+    "Alpha-2 code": "SC",
+    "Alpha-3 code": "SYC",
+    "Numeric code": 690,
+    "lat": -4.5833,
+    "long": 55.6667
+  },
+  {
+    "country": "Sierra Leone",
+    "Alpha-2 code": "SL",
+    "Alpha-3 code": "SLE",
+    "Numeric code": 694,
+    "lat": 8.5,
+    "long": -11.5
+  },
+  {
+    "country": "Singapore",
+    "Alpha-2 code": "SG",
+    "Alpha-3 code": "SGP",
+    "Numeric code": 702,
+    "lat": 1.3667,
+    "long": 103.8
+  },
+  {
+    "country": "Slovakia",
+    "Alpha-2 code": "SK",
+    "Alpha-3 code": "SVK",
+    "Numeric code": 703,
+    "lat": 48.6667,
+    "long": 19.5
+  },
+  {
+    "country": "Slovenia",
+    "Alpha-2 code": "SI",
+    "Alpha-3 code": "SVN",
+    "Numeric code": 705,
+    "lat": 46,
+    "long": 15
+  },
+  {
+    "country": "Solomon Islands",
+    "Alpha-2 code": "SB",
+    "Alpha-3 code": "SLB",
+    "Numeric code": 90,
+    "lat": -8,
+    "long": 159
+  },
+  {
+    "country": "Somalia",
+    "Alpha-2 code": "SO",
+    "Alpha-3 code": "SOM",
+    "Numeric code": 706,
+    "lat": 10,
+    "long": 49
+  },
+  {
+    "country": "South Africa",
+    "Alpha-2 code": "ZA",
+    "Alpha-3 code": "ZAF",
+    "Numeric code": 710,
+    "lat": -29,
+    "long": 24
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "Alpha-2 code": "GS",
+    "Alpha-3 code": "SGS",
+    "Numeric code": 239,
+    "lat": -54.5,
+    "long": -37
+  },
+  {
+    "country": "South Sudan",
+    "Alpha-2 code": "SS",
+    "Alpha-3 code": "SSD",
+    "Numeric code": 728,
+    "lat": 8,
+    "long": 30
+  },
+  {
+    "country": "Spain",
+    "Alpha-2 code": "ES",
+    "Alpha-3 code": "ESP",
+    "Numeric code": 724,
+    "lat": 40,
+    "long": -4
+  },
+  {
+    "country": "Sri Lanka",
+    "Alpha-2 code": "LK",
+    "Alpha-3 code": "LKA",
+    "Numeric code": 144,
+    "lat": 7,
+    "long": 81
+  },
+  {
+    "country": "Sudan",
+    "Alpha-2 code": "SD",
+    "Alpha-3 code": "SDN",
+    "Numeric code": 736,
+    "lat": 15,
+    "long": 30
+  },
+  {
+    "country": "Suriname",
+    "Alpha-2 code": "SR",
+    "Alpha-3 code": "SUR",
+    "Numeric code": 740,
+    "lat": 4,
+    "long": -56
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "Alpha-2 code": "SJ",
+    "Alpha-3 code": "SJM",
+    "Numeric code": 744,
+    "lat": 78,
+    "long": 20
+  },
+  {
+    "country": "Swaziland",
+    "Alpha-2 code": "SZ",
+    "Alpha-3 code": "SWZ",
+    "Numeric code": 748,
+    "lat": -26.5,
+    "long": 31.5
+  },
+  {
+    "country": "Sweden",
+    "Alpha-2 code": "SE",
+    "Alpha-3 code": "SWE",
+    "Numeric code": 752,
+    "lat": 62,
+    "long": 15
+  },
+  {
+    "country": "Switzerland",
+    "Alpha-2 code": "CH",
+    "Alpha-3 code": "CHE",
+    "Numeric code": 756,
+    "lat": 47,
+    "long": 8
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "Alpha-2 code": "SY",
+    "Alpha-3 code": "SYR",
+    "Numeric code": 760,
+    "lat": 35,
+    "long": 38
+  },
+  {
+    "country": "Taiwan, Province of China",
+    "Alpha-2 code": "TW",
+    "Alpha-3 code": "TWN",
+    "Numeric code": 158,
+    "lat": 23.5,
+    "long": 121
+  },
+  {
+    "country": "Tajikistan",
+    "Alpha-2 code": "TJ",
+    "Alpha-3 code": "TJK",
+    "Numeric code": 762,
+    "lat": 39,
+    "long": 71
+  },
+  {
+    "country": "Tanzania, United Republic of",
+    "Alpha-2 code": "TZ",
+    "Alpha-3 code": "TZA",
+    "Numeric code": 834,
+    "lat": -6,
+    "long": 35
+  },
+  {
+    "country": "Thailand",
+    "Alpha-2 code": "TH",
+    "Alpha-3 code": "THA",
+    "Numeric code": 764,
+    "lat": 15,
+    "long": 100
+  },
+  {
+    "country": "Timor-Leste",
+    "Alpha-2 code": "TL",
+    "Alpha-3 code": "TLS",
+    "Numeric code": 626,
+    "lat": -8.55,
+    "long": 125.5167
+  },
+  {
+    "country": "Togo",
+    "Alpha-2 code": "TG",
+    "Alpha-3 code": "TGO",
+    "Numeric code": 768,
+    "lat": 8,
+    "long": 1.1667
+  },
+  {
+    "country": "Tokelau",
+    "Alpha-2 code": "TK",
+    "Alpha-3 code": "TKL",
+    "Numeric code": 772,
+    "lat": -9,
+    "long": -172
+  },
+  {
+    "country": "Tonga",
+    "Alpha-2 code": "TO",
+    "Alpha-3 code": "TON",
+    "Numeric code": 776,
+    "lat": -20,
+    "long": -175
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "Alpha-2 code": "TT",
+    "Alpha-3 code": "TTO",
+    "Numeric code": 780,
+    "lat": 11,
+    "long": -61
+  },
+  {
+    "country": "Tunisia",
+    "Alpha-2 code": "TN",
+    "Alpha-3 code": "TUN",
+    "Numeric code": 788,
+    "lat": 34,
+    "long": 9
+  },
+  {
+    "country": "Turkey",
+    "Alpha-2 code": "TR",
+    "Alpha-3 code": "TUR",
+    "Numeric code": 792,
+    "lat": 39,
+    "long": 35
+  },
+  {
+    "country": "Turkmenistan",
+    "Alpha-2 code": "TM",
+    "Alpha-3 code": "TKM",
+    "Numeric code": 795,
+    "lat": 40,
+    "long": 60
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "Alpha-2 code": "TC",
+    "Alpha-3 code": "TCA",
+    "Numeric code": 796,
+    "lat": 21.75,
+    "long": -71.5833
+  },
+  {
+    "country": "Tuvalu",
+    "Alpha-2 code": "TV",
+    "Alpha-3 code": "TUV",
+    "Numeric code": 798,
+    "lat": -8,
+    "long": 178
+  },
+  {
+    "country": "Uganda",
+    "Alpha-2 code": "UG",
+    "Alpha-3 code": "UGA",
+    "Numeric code": 800,
+    "lat": 1,
+    "long": 32
+  },
+  {
+    "country": "Ukraine",
+    "Alpha-2 code": "UA",
+    "Alpha-3 code": "UKR",
+    "Numeric code": 804,
+    "lat": 49,
+    "long": 32
+  },
+  {
+    "country": "United Arab Emirates",
+    "Alpha-2 code": "AE",
+    "Alpha-3 code": "ARE",
+    "Numeric code": 784,
+    "lat": 24,
+    "long": 54
+  },
+  {
+    "country": "United Kingdom",
+    "Alpha-2 code": "GB",
+    "Alpha-3 code": "GBR",
+    "Numeric code": 826,
+    "lat": 54,
+    "long": -2
+  },
+  {
+    "country": "United States",
+    "Alpha-2 code": "US",
+    "Alpha-3 code": "USA",
+    "Numeric code": 840,
+    "lat": 38,
+    "long": -97
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "Alpha-2 code": "UM",
+    "Alpha-3 code": "UMI",
+    "Numeric code": 581,
+    "lat": 19.2833,
+    "long": 166.6
+  },
+  {
+    "country": "Uruguay",
+    "Alpha-2 code": "UY",
+    "Alpha-3 code": "URY",
+    "Numeric code": 858,
+    "lat": -33,
+    "long": -56
+  },
+  {
+    "country": "Uzbekistan",
+    "Alpha-2 code": "UZ",
+    "Alpha-3 code": "UZB",
+    "Numeric code": 860,
+    "lat": 41,
+    "long": 64
+  },
+  {
+    "country": "Vanuatu",
+    "Alpha-2 code": "VU",
+    "Alpha-3 code": "VUT",
+    "Numeric code": 548,
+    "lat": -16,
+    "long": 167
+  },
+  {
+    "country": "Venezuela, Bolivarian Republic of",
+    "Alpha-2 code": "VE",
+    "Alpha-3 code": "VEN",
+    "Numeric code": 862,
+    "lat": 8,
+    "long": -66
+  },
+  {
+    "country": "Viet Nam",
+    "Alpha-2 code": "VN",
+    "Alpha-3 code": "VNM",
+    "Numeric code": 704,
+    "lat": 16,
+    "long": 106
+  },
+  {
+    "country": "Virgin Islands, British",
+    "Alpha-2 code": "VG",
+    "Alpha-3 code": "VGB",
+    "Numeric code": 92,
+    "lat": 18.5,
+    "long": -64.5
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "Alpha-2 code": "VI",
+    "Alpha-3 code": "VIR",
+    "Numeric code": 850,
+    "lat": 18.3333,
+    "long": -64.8333
+  },
+  {
+    "country": "Wallis and Futuna",
+    "Alpha-2 code": "WF",
+    "Alpha-3 code": "WLF",
+    "Numeric code": 876,
+    "lat": -13.3,
+    "long": -176.2
+  },
+  {
+    "country": "Western Sahara",
+    "Alpha-2 code": "EH",
+    "Alpha-3 code": "ESH",
+    "Numeric code": 732,
+    "lat": 24.5,
+    "long": -13
+  },
+  {
+    "country": "Yemen",
+    "Alpha-2 code": "YE",
+    "Alpha-3 code": "YEM",
+    "Numeric code": 887,
+    "lat": 15,
+    "long": 48
+  },
+  {
+    "country": "Zambia",
+    "Alpha-2 code": "ZM",
+    "Alpha-3 code": "ZMB",
+    "Numeric code": 894,
+    "lat": -15,
+    "long": 30
+  },
+  {
+    "country": "Zimbabwe",
+    "Alpha-2 code": "ZW",
+    "Alpha-3 code": "ZWE",
+    "Numeric code": 716,
+    "lat": -20,
+    "long": 30
+  }
+]

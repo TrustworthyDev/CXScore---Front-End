@@ -1,0 +1,9 @@
+to build, run sh build_server.sh
+
+to run:
+docker run -d --name ui_server  --network host --restart unless-stopped ui_server
+
+stop current one in order to run a new one:
+docker stop ui_server
+docker rm ui_server
+
